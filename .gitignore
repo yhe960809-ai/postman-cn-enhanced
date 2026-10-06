@@ -1,0 +1,9 @@
+node_modules/
+*.asar
+*.bak
+*.log
+.env*
+coverage/
+work/
+outputs/
+*.zip
